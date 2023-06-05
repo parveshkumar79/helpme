@@ -1,0 +1,10 @@
+button {
+    color: blue;
+    background-color: azure;
+    width: fit-content;
+}
+
+textarea {
+    color: green;
+    background-color: yellow;
+}
